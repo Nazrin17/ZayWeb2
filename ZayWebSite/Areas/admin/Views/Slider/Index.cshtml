@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model List<SliderGetDto>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div>
+            <a asp-area="admin" asp-controller="slider" asp-action="create">
+                <i class="mdi mdi-calendar-plus"></i>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>No</th>
+                                        <th>Title</th>
+                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.Id</td>
+                                            <td>@item.Title</td>
+                                            <td>@item.Description</td>
+                                            <td style="color:black">
+                                                <a asp-area="admin" asp-controller="Slider" asp-action="update">
+                                                    <i class="mdi mdi-border-color "></i>
+                                                </a>
+                                                <a asp-area="admin" asp-controller="slider" asp-action="delete" asp-route-id="@item.Id">
+                                                    <i class="mdi mdi-delete"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ServiceUpdateDto
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Name">Name</label>
+                                <input asp-for="@Model.postDto.Name" value="@Model.getDto.Name" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Icon">Icon</label>
+                                <input asp-for="@Model.postDto.Icon" >
+                            </div>
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <button class="btn btn-light">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

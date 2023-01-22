@@ -1,0 +1,42 @@
+﻿@model SettingUpdateDto
+@{
+    ViewData["Title"] = "Update";
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <form class="forms-sample" method="post">
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Email">Email</label>
+                                <input asp-for="@Model.postDto.Email" value="@Model.getDto.Email"  class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Phone">phone</label>
+                                <input asp-for="@Model.postDto.Phone" value="@Model.getDto.Phone">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Logo"> Logo</label>
+                                <input asp-for="@Model.postDto.Logo" asp-value="@Model.getDto.Logo">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Icon">Icon</label>
+                                <input asp-for="@Model.postDto.Icon" >
+                            </div>
+                              <div class="form-group">
+                                <label asp-for="@Model.postDto.IconUrl">IconUrl</label>
+                                <input asp-for="@Model.postDto.IconUrl" >
+                            </div>
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <button class="btn btn-light">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

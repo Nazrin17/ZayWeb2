@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ZayWebSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ZayWebSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\25996a5c-922e-446f-9cdf-92e08fb0cc828ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\25996a5c-922e-446f-9cdf-92e08fb0cc828ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\45e34f49-e921-4c49-b4d5-f671b3ec17d5accessories.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\45e34f49-e921-4c49-b4d5-f671b3ec17d5accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\5b9798ea-662b-4e5b-a21c-ba682d283c5a8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\5b9798ea-662b-4e5b-a21c-ba682d283c5a8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\678ee523-929c-4268-9fe7-87a79826d3afocean.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\678ee523-929c-4268-9fe7-87a79826d3afocean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\74c35b4a-c084-4cb1-a6ed-11e56feefcc5tt.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\74c35b4a-c084-4cb1-a6ed-11e56feefcc5tt.webp"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\90699eeb-762c-45d3-a85f-7d1a9317cbf98ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\90699eeb-762c-45d3-a85f-7d1a9317cbf98ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\90aa3639-adcd-41ac-8cf9-11a3874d676d8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\90aa3639-adcd-41ac-8cf9-11a3874d676d8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\9523607c-171c-43d8-9daf-cd607d9ca7b7t.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\9523607c-171c-43d8-9daf-cd607d9ca7b7t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\a6e7a426-68b0-4a61-989f-9e8c6f54a1c58ebdf3d3dae40204db638eb8d3945ca5a22ed646.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a6e7a426-68b0-4a61-989f-9e8c6f54a1c58ebdf3d3dae40204db638eb8d3945ca5a22ed646.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\about-hero.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\banner_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\banner_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\banner_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\bb3b8f1d-612f-44dd-8e2b-99782ae6789et.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bb3b8f1d-612f-44dd-8e2b-99782ae6789et.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\brand_01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\brand_02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\brand_03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\brand_04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\c438f429-c3a2-4b24-ad31-5633b93c0c4a8ebdf3d3dae40204db638eb8d3945ca5a22ed646.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c438f429-c3a2-4b24-ad31-5633b93c0c4a8ebdf3d3dae40204db638eb8d3945ca5a22ed646.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\c9bd6232-f7c7-4f2d-a9b1-427bfd6701d88ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c9bd6232-f7c7-4f2d-a9b1-427bfd6701d88ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\category_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\category_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\category_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\cdd29128-81d1-4604-a159-4bf64501193d8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cdd29128-81d1-4604-a159-4bf64501193d8ebdf3d3dae40204db638eb8d3945ca5a22ed646 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\e3b55bfd-6e46-4a01-822e-8ad5484bd57daccessories.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\e3b55bfd-6e46-4a01-822e-8ad5484bd57daccessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\feature_prod_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\feature_prod_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\feature_prod_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\product_single_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\img\\shop_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\assets\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Nurlan\\source\\repos\\ZayWebSite\\ZayWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ZayWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ZayWebSite.props",
+      "PackagePath": "build\\ZayWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ZayWebSite.props",
+      "PackagePath": "buildMultiTargeting\\ZayWebSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ZayWebSite.props",
+      "PackagePath": "buildTransitive\\ZayWebSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

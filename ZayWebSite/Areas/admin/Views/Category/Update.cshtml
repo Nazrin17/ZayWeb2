@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+}
+
+@model CategoryUpdateDto
+<div class="main-panel">
+    <div class="content-wrapper">
+
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                            <input hidden asp-for="@Model.getDto.Id"/>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.Name">Name</label>
+                                <input asp-for="@Model.postDto.Name" value="@Model.getDto.Name" class="form-control">
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="@Model.postDto.formFile"></label>
+                                <input asp-for="@Model.postDto.formFile">
+                            </div>
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <button class="btn btn-light">Cancel</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿@model ServicesSecGetDto
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div>
+            <a asp-area="admin" asp-controller="servicesec" asp-action="create">
+                <i class="mdi mdi-calendar-plus"></i>
+            </a>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>title</th>
+                                        <th>description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @if (Model != null)
+                                    {
+
+                                        <tr>
+                                            <td>@Model.Title</td>
+                                            <td>@Model.Description</td>
+                                            <td style="color:black">
+                                                <a asp-area="admin" asp-controller="servicesec" asp-action="update">
+                                                    <i class="mdi mdi-border-color "></i>
+                                                </a>
+                                                <a asp-area="admin" asp-controller="servicesec" asp-action="delete">
+                                                    <i class="mdi mdi-delete"></i>
+                                                </a>
+
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
